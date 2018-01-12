@@ -1,0 +1,17 @@
+INSERT INTO PERSON (first_name,last_name) VALUES ('Udit','Tyagi')
+INSERT INTO PERSON (first_name,last_name) VALUES ('Harsh','Tyagi')
+INSERT INTO PERSON (first_name,last_name) VALUES ('Tapovi','Chaudhary')
+INSERT INTO PERSON (first_name,last_name) VALUES ('Deeksha','Kamal')
+INSERT INTO PERSON (first_name,last_name) VALUES ('Prashant','Verma')
+
+
+INSERT INTO MEMBERSHIP (sport,start_date,renewal_date,person_id) VALUES ('Cricket','2017-06-19','2018-01-08',1)
+INSERT INTO MEMBERSHIP (sport,start_date,renewal_date,person_id) VALUES ('VolleyBall','2017-10-21','2018-04-21',1)
+INSERT INTO MEMBERSHIP (sport,start_date,renewal_date,person_id) VALUES ('BasketBall','2017-03-19','2017-12-08',2)
+INSERT INTO MEMBERSHIP (sport,start_date,renewal_date,person_id) VALUES ('Carrom','2017-07-10','2018-01-10',2)
+INSERT INTO MEMBERSHIP (sport,start_date,renewal_date,person_id) VALUES ('Dance','2017-02-19','2017-10-02',3)
+INSERT INTO MEMBERSHIP (sport,start_date,renewal_date,person_id) VALUES ('FootBall','2017-10-15','2018-04-15',3)
+INSERT INTO MEMBERSHIP (sport,start_date,renewal_date,person_id) VALUES ('Marketing','2018-01-01','2018-06-01',4)
+INSERT INTO MEMBERSHIP (sport,start_date,renewal_date,person_id) VALUES ('Business Game','2017-12-05','2018-05-05',4)
+INSERT INTO MEMBERSHIP (sport,start_date,renewal_date,person_id) VALUES ('Chess','2017-03-19','2017-12-19',5)
+INSERT INTO MEMBERSHIP (sport,start_date,renewal_date,person_id) VALUES ('Badminton','2017-06-11','2018-01-11',5)
